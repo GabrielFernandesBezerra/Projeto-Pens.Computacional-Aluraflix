@@ -14,7 +14,7 @@ body {
     width: 400px;
     margin-left: 255px;
     margin-top: 40px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
 }
 .Dream {
     margin-left: 170px;
@@ -29,7 +29,7 @@ body {
     font-size: 60px;
 }
 .guilherme {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
     letter-spacing: 3px;
     color: red;
     background: black;
@@ -49,7 +49,7 @@ body {
     height: 20px;
 }
 .ttl2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma;
     letter-spacing: 1px;
     color: red;
 }
